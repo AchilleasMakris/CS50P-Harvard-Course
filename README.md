@@ -47,4 +47,5 @@ With the resources available and studies from:
 
 ## Status
 
-Course in progress!
+Course Finished!
+![Certification](https://certificates.cs50.io/c6d3663c-866f-42e2-81d4-896e97ace537.pdf?size=letter)
