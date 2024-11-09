@@ -20,9 +20,6 @@ With the resources available and studies from:
 
     https://cs50.harvard.edu/python/2022/
 
-## Status
-
-Course in progress!
 
 **`Harvard CS50P COURSE`**
 
